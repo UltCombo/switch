@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Switch",
+    "icon": "./icon.png",
+    "version": "1.0.0",
+    "slug": "switch",
+    "sdkVersion": "20.0.0",
+    "ios": {
+      "bundleIdentifier": "org.js.ultcombo.switch"
+    },
+    "android": {
+      "package": "org.js.ultcombo.switch"
+    }
+  }
+}
